@@ -1,0 +1,10 @@
+# Ignorar arquivo .env
+.env
+
+# Ignorar pastas pycache
+__pycache__/
+
+# Ignorar logs do Airflow
+logs/
+
+connection.txt
